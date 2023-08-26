@@ -1,0 +1,9 @@
+{
+  "region": {
+    "prefix": "region",
+    "body": [
+      "// region: Name \n\n// endregion: Name"
+    ],
+    "description": "Define Regions"
+  }
+}
